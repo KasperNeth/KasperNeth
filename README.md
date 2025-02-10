@@ -6,4 +6,3 @@
 
 - 💡  Student at (https://altschoolafrica.com/) Class of 2024.
 - 🌱 I’m currently learning **JavaScript, Nodejs and Expressjs**.
-- 📫 Contact me by emailing Okeowoa244@gmail.com.
