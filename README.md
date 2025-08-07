@@ -16,16 +16,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KasperNeth&show_icons=true&theme=tokyonight" alt="KasperNeth's GitHub stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KasperNeth&show_icons=true&theme=radical" alt="KasperNeth's GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasperNeth&theme=tokyonight" alt="KasperNeth's GitHub streak" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasperNeth&theme=radical" alt="KasperNeth's GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasperNeth&layout=compact&theme=tokyonight" alt="KasperNeth's Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasperNeth&layout=compact&theme=radical" alt="KasperNeth's Top Languages" />
 </p>
 
 
