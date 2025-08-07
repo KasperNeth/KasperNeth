@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KasperNeth&show_icons=true&theme=radical" alt="KasperNeth's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=KasperNeth&show_icons=true&theme=radical&count_private=true&v=2" />
 </p>
 
 <p align="left">
