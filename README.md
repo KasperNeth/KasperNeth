@@ -15,11 +15,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KasperNeth&show_icons=true&theme=radical" alt="Okeowo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KasperNeth&show_icons=true&theme=tokyonight" alt="Okeowo's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasperNeth&theme=radical" alt="Okeowo's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasperNeth&theme=radical" alt="KasperNeth's GitHub streak" />
 </p>
 
 <p align="center">
