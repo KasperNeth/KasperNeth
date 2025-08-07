@@ -1,8 +1,10 @@
-# Hello there; welcome 👋🏾
+# 👋🏾 Hey there, I'm Okeowo Adeoye
 
-**I'm Okeowo Adeoye**🤖
+## 🧊 A chill guy who loves building and learning
 
-- I'm currently learning about software and how to write clean and effcient code with javaScript
+- 🎓 Studied at [AltSchool Africa](https://altschoolafrica.com/) – Class of 2024  
+- 🛠️ Passionate about solving real-world problems with code  
+- 💬 Always open to learning, collaboration, and sharing ideas  
 
-- 💡  Student at (https://altschoolafrica.com/) Class of 2024.
-- 🌱 I’m currently learning **JavaScript, Nodejs and Expressjs**.
+> _“Code, chill, repeat.”_
+  
