@@ -1,4 +1,6 @@
-# 👋🏾 Hey there, I'm Okeowo Adeoye
+# Hey there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> I'm KasperNeth
+
+
 
 ## 🧊 A chill guy who loves building and learning
 
@@ -15,14 +17,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KasperNeth&show_icons=true&theme=tokyonight" alt="Okeowo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KasperNeth&show_icons=true&theme=tokyonight" alt="KasperNeth's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasperNeth&theme=radical" alt="KasperNeth's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasperNeth&theme=tokyonight" alt="KasperNeth's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasperNeth&layout=compact&theme=radical" alt="Okeowo's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasperNeth&layout=compact&theme=tokyonight" alt="KasperNeth's Top Languages" />
 </p>
+
 
