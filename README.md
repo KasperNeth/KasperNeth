@@ -7,4 +7,22 @@
 - 💬 Always open to learning, collaboration, and sharing ideas  
 
 > _“Code, chill, repeat.”_
-  
+
+
+
+  ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KasperNeth&show_icons=true&theme=radical" alt="Okeowo's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasperNeth&theme=radical" alt="Okeowo's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasperNeth&layout=compact&theme=radical" alt="Okeowo's top languages" />
+</p>
+
